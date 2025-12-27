@@ -68,7 +68,7 @@ const Index = () => {
         <div className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
           {/* Introduction */}
           <section id="introduction" className="scroll-mt-20 mb-12">
-            <h1 className="text-lg font-medium mb-2">
+            <h1 className="text-lg font-medium mb-2 uppercase">
               Agentic Design Patterns
             </h1>
             <p className="text-xs text-muted-foreground leading-relaxed max-w-xl">
